@@ -1,12 +1,12 @@
 # Micro Service Architecture
 
-## why micro service architecture
+## Why MSA
 - Reduce Cost
 - Increase Release Speed
 - Improve Resilience
 - Enable Visibility
 
-## principles
+## Principles
 - Scalability
 - Availability
 - Resiliency
@@ -25,7 +25,7 @@
 - Choreography
 - Orchestration
 
-## database/data consistency
+## Database/Data consistency
 - database per server
 - CQRS
 - Event Sourcing
