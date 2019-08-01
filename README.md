@@ -25,6 +25,12 @@
 - Choreography
 - Orchestration
 
+## database/data consistency
+- database per server
+- CQRS
+- Event Sourcing
+- Sagas
+
 ## Observability
 - log
 - tracing
