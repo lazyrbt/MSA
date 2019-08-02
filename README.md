@@ -41,3 +41,6 @@
 - service discovery
 - circuit breaker
 - deployment
+
+## Migration from monolithic to MSA
+- Strangler Pattern
